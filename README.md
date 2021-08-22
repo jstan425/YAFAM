@@ -13,33 +13,34 @@ With the mod pack is still a **WORK IN PROGRESS**! We believed that with the fee
 
 
 *Mod List*
-> Apple skin
-> Aquaculture 2
-> Yung's BetterCaves
-> Yung's BetterMineshaft
-> Biomes O'Plenty
-> Caves And Cliffs Backport
-> Chisel
-> Chisel and Bits
-> Clumps
-> Cooking For Blockheads
-> Create
-> Create Addition
-> Dark Paintings
-> Dynamic Surroundings
-> Extra Storage
-> Fast Workbench & Fast Furnance
-> HWYLA
-> JEI
-> JourneyMap
-> Pam's HarvestCraft 2
-> Project's Red Series
-> Quark
-> Refined Pipes
-> Refined Storage
-> Simply Light
-> Storage Drawers
-> Thermal Series (by CofH)
-> SoL Carrot
-> Waystones
+- Apple skin
+- Aquaculture 2
+- Yung's BetterCaves
+- Yung's BetterMineshaft
+- Biomes O'Plenty
+- Caves And Cliffs Backport
+- Chisel
+- Chisel and Bits
+- Clumps
+- Cooking For Blockheads
+- Create
+- Create Addition
+- Dark Paintings
+- Dynamic Surroundings
+- Extra Storage
+- Fast Workbench & Fast Furnance
+- HWYLA
+- JEI
+- JourneyMap
+- Pam's HarvestCraft 2
+- Project's Red Series
+- Quark
+- Refined Pipes
+- Refined Storage
+- Simply Light
+- Storage Drawers
+- Thermal Series (by CofH)
+- SoL Carrot
+- Waystones
+
 *and many more..!*
